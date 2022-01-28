@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  <!-- Strive to Thrive -->
   <DifficultyDef>
-    <defName>FromWithinDifficulty</defName>
-    <label>From Within</label>
-    <description>While your colonists will be safe from raids, animals, and machines, they will not be safe from each other.
-Major threats are disabled, but colonists are hard to satisfy, disease and food poisoning are more likely, harvesting yields less, and research is slower.
+    <defName>StriveToThriveDifficulty</defName>
+    <label>Strive to Thrive</label>
+    <description>Peaceful, but without bonuses to yeilds. Basically just Strive to Survive with major threats disabled.
 
 (*SectionTitle)Recommended for:(/SectionTitle)
 
-- Players who want a challenge but are not interested in combat.</description>
+- Players who don't want to fight but think Peaceful is too easy.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowViolentQuests>false</allowViolentQuests>
@@ -16,23 +16,79 @@ Major threats are disabled, but colonists are hard to satisfy, disease and food 
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <peacefulTemples>True</peacefulTemples>
-    <scariaRotChance>0.6</scariaRotChance>
     <colonistMoodOffset>-20</colonistMoodOffset>
-    <tradePriceFactorLoss>0.2</tradePriceFactorLoss>
-    <cropYieldFactor>0.8</cropYieldFactor>
-    <mineYieldFactor>0.8</mineYieldFactor>
-    <butcherYieldFactor>0.8</butcherYieldFactor>
+    <cropYieldFactor>1</cropYieldFactor>
+    <mineYieldFactor>1</mineYieldFactor>
+    <butcherYieldFactor>1</butcherYieldFactor>
+    <questRewardValueFactor>1</questRewardValueFactor>
+    <foodPoisonChanceFactor>1.0</foodPoisonChanceFactor>
+    <playerPawnInfectionChanceFactor>1.0</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>1.0</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.0</tradePriceFactorLoss>
+    <researchSpeedFactor>1.0</researchSpeedFactor>
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
-    <researchSpeedFactor>0.5</researchSpeedFactor>
-    <diseaseIntervalFactor>0.6666667</diseaseIntervalFactor>
-    <playerPawnInfectionChanceFactor>1.5</playerPawnInfectionChanceFactor>
-    <manhunterChanceOnDamageFactor>1</manhunterChanceOnDamageFactor>
+    <scariaRotChance>0.6</scariaRotChance>
+  </DifficultyDef>
+  <!-- A Bit of Friction -->
+  <DifficultyDef>
+    <defName>ABitOfFrictionDifficulty</defName>
+    <label>A Bit of Friction</label>
+    <description>Even if there are no major threats, that doesn't make it easy. Colonists are harder to please, sickness is more common, and resources are a little harder come by.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who don't want to fight but still want a bit of a challenge.</description>
+    <threatScale>1</threatScale>
+    <allowBigThreats>false</allowBigThreats>
+    <allowViolentQuests>false</allowViolentQuests>
+    <allowIntroThreats>false</allowIntroThreats>
+    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <allowCaveHives>false</allowCaveHives>
+    <peacefulTemples>True</peacefulTemples>
+    <colonistMoodOffset>-10</colonistMoodOffset>
+    <cropYieldFactor>0.85</cropYieldFactor>
+    <mineYieldFactor>0.85</mineYieldFactor>
+    <butcherYieldFactor>0.85</butcherYieldFactor>
+    <questRewardValueFactor>0.85</questRewardValueFactor>
     <foodPoisonChanceFactor>1.5</foodPoisonChanceFactor>
-    <maintenanceCostFactor>1</maintenanceCostFactor>
-    <enemyDeathOnDownedChanceFactor>1</enemyDeathOnDownedChanceFactor>
-    <adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
-    <adaptationEffectFactor>0.9</adaptationEffectFactor>
-    <questRewardValueFactor>0.8</questRewardValueFactor>
+    <playerPawnInfectionChanceFactor>1.5</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>0.75</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.1</tradePriceFactorLoss>
+    <researchSpeedFactor>0.75</researchSpeedFactor>
+    <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
+    <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
+    <scariaRotChance>0.6</scariaRotChance>
+  </DifficultyDef>
+  <!-- Endless Strife -->
+  <DifficultyDef>
+    <defName>EndlessStrifeDifficulty</defName>
+    <label>EndlessStrife</label>
+    <description>While your colonists will be safe from raids, manhunters, and machines, they will not be safe from each other.
+Colonist are impossible to please, sickness is rampant, and resources are scarce.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who want to fight their own colonists instead of raiders.</description>
+    <threatScale>1</threatScale>
+    <allowBigThreats>false</allowBigThreats>
+    <allowViolentQuests>false</allowViolentQuests>
+    <allowIntroThreats>false</allowIntroThreats>
+    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <allowCaveHives>false</allowCaveHives>
+    <peacefulTemples>True</peacefulTemples>
+    <colonistMoodOffset>-20</colonistMoodOffset>
+    <cropYieldFactor>0.7</cropYieldFactor>
+    <mineYieldFactor>0.7</mineYieldFactor>
+    <butcherYieldFactor>0.7</butcherYieldFactor>
+    <questRewardValueFactor>0.7</questRewardValueFactor>
+    <foodPoisonChanceFactor>2.0</foodPoisonChanceFactor>
+    <playerPawnInfectionChanceFactor>2.0</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>0.5</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.2</tradePriceFactorLoss>
+    <researchSpeedFactor>0.5</researchSpeedFactor>
+    <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
+    <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
+    <scariaRotChance>0.6</scariaRotChance>
   </DifficultyDef>
 </Defs>

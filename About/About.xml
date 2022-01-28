@@ -11,20 +11,30 @@ Harder difficulties for those who are not interested in combat.
 
 I've never been super interested in RimWorld's combat. 
 I never liked how you can't really build a cool base without increasing you wealth, and with it, raid points.
+There is already so much [i]game[/i] in the rest of Rimworld's systems, that I like to just turn major threats off.
 Peaceful difficulty exists, but in my opinion, it is too easy and boring. 
 I don't want an easier game, I want a game where the [i]difficulty comes from somewhere else[/i].
 
-With From Within difficulty, [b]all major and quest threats are disabled[/b]. 
+This mod offers 3 new difficulties:
+[list]
+[*] Strive to Thrive
+[*] A Bit of Friction
+[*] Endless Strife
+[/list]
+
+In these difficulties, [b]all major and quest threats are disabled[/b]. 
 This includes raids, manhunter packs, infestations, mechanoids, etc.
 Extreme weather can still happen.
+Insects spawning in caves on map generation is disabled.
+Ancient dangers are peaceful.
 
-To balance out this reduction in threat, the rest of the game has been made more difficult (compared to strive to survive difficulty):
+To balance out this reduction in threat, the rest of the game has been made more difficult (compared to Strive to Survive difficulty):
 [list]
-[*] All colonists get a flat -20 mood debuff
-[*] Harvesting, mining, and butchering all yield 20% less
-[*] Food poisoning, disease, and infection are all 50% more likely
-[*] Research speed is half as fast
-[*] Trade prices are 20% worse
+[*] All colonists get a flat 0/-10/-20 mood debuff
+[*] Harvesting, mining, and butchering all yield 0/15/30% less
+[*] Food poisoning, disease, and infection are all 0/50/100% more likely
+[*] Research speed is 100%/75%/50% as fast
+[*] Trade prices are 0/15/30% worse
 [*] Quest rewards are 20% worse
 [/list]
   </description>
