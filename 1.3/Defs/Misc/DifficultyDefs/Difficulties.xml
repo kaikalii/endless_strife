@@ -3,8 +3,8 @@
   <!-- Strive to Thrive -->
   <DifficultyDef>
     <defName>StriveToThriveDifficulty</defName>
-    <label>Strive to Thrive</label>
-    <description>Peaceful, but without bonuses to yeilds. Basically just Strive to Survive with major threats disabled.
+    <label>Strive to thrive</label>
+    <description>Peaceful, but without bonuses to yeilds. Basically just Strive to survive with major threats disabled.
 
 (*SectionTitle)Recommended for:(/SectionTitle)
 
@@ -33,7 +33,7 @@
   <!-- A Bit of Friction -->
   <DifficultyDef>
     <defName>ABitOfFrictionDifficulty</defName>
-    <label>A Bit of Friction</label>
+    <label>A bit of friction</label>
     <description>Even if there are no major threats, that doesn't make it easy. Colonists are harder to please, sickness is more common, and resources are a little harder come by.
 
 (*SectionTitle)Recommended for:(/SectionTitle)
@@ -63,7 +63,7 @@
   <!-- Endless Strife -->
   <DifficultyDef>
     <defName>EndlessStrifeDifficulty</defName>
-    <label>EndlessStrife</label>
+    <label>Endless strife</label>
     <description>While your colonists will be safe from raids, manhunters, and machines, they will not be safe from each other.
 Colonist are impossible to please, sickness is rampant, and resources are scarce.
 
