@@ -15,11 +15,12 @@ There is already so much [i]game[/i] in the rest of Rimworld's systems, that I l
 Peaceful difficulty exists, but in my opinion, it is too easy and boring. 
 I don't want an easier game, I want a game where the [i]difficulty comes from somewhere else[/i].
 
-This mod offers 3 new difficulties:
+This mod offers 4 new difficulties:
 [list]
 [*] Strive to thrive
 [*] A bit of friction
 [*] Endless strife
+[*] Life is torment
 [/list]
 
 In these difficulties, [b]all major and quest threats are disabled[/b]. 
@@ -30,12 +31,12 @@ Ancient dangers are peaceful.
 
 To balance out this reduction in threat, the rest of the game has been made more difficult (compared to Strive to survive difficulty):
 [list]
-[*] All colonists get a flat -10/-20/-30 mood debuff
-[*] Harvesting, mining, and butchering all yield 10/20/30% less
-[*] Food poisoning, disease, and infection are all 20/50/80% more likely
-[*] Research speed is 10/30/50% slower
-[*] Trade prices are 10/20/30% worse
-[*] Quest rewards are 10/20/30% worse
+[*] All colonists get a flat -10/-20/-30/-40 mood debuff
+[*] Harvesting, mining, and butchering all yield 10/20/30/40% less
+[*] Food poisoning, disease, and infection are all 20/50/80/110% more likely
+[*] Research speed is 10/30/50/70% slower
+[*] Trade prices are 10/20/30/40% worse
+[*] Quest rewards are 10/20/30/40% worse
 [/list]
   </description>
 </ModMetaData>

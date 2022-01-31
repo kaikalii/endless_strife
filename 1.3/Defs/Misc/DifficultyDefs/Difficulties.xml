@@ -59,8 +59,7 @@
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
     <scariaRotChance>0.6</scariaRotChance>
-  </DifficultyDef>
-  <!-- Endless Strife -->
+  </DifficultyDef>  <!-- Endless Strife -->
   <DifficultyDef>
     <defName>EndlessStrifeDifficulty</defName>
     <label>Endless strife</label>
@@ -87,6 +86,35 @@ Colonist are impossible to please, sickness is rampant, and resources are scarce
     <diseaseIntervalFactor>0.5556</diseaseIntervalFactor>
     <tradePriceFactorLoss>0.3</tradePriceFactorLoss>
     <researchSpeedFactor>0.5</researchSpeedFactor>
+    <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
+    <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
+    <scariaRotChance>0.6</scariaRotChance>
+  </DifficultyDef>  <!-- Life is torment -->
+  <DifficultyDef>
+    <defName>LifeIsTormentDifficulty</defName>
+    <label>Life is torment</label>
+    <description>Colonists' very existance is reason enough for a mental break.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Min-maxing players who want to re-roll for Sanguine and Iron-Willed.</description>
+    <threatScale>1</threatScale>
+    <allowBigThreats>false</allowBigThreats>
+    <allowViolentQuests>false</allowViolentQuests>
+    <allowIntroThreats>false</allowIntroThreats>
+    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <allowCaveHives>false</allowCaveHives>
+    <peacefulTemples>True</peacefulTemples>
+    <colonistMoodOffset>-40</colonistMoodOffset>
+    <cropYieldFactor>0.6</cropYieldFactor>
+    <mineYieldFactor>0.6</mineYieldFactor>
+    <butcherYieldFactor>0.6</butcherYieldFactor>
+    <questRewardValueFactor>0.6</questRewardValueFactor>
+    <foodPoisonChanceFactor>2.1</foodPoisonChanceFactor>
+    <playerPawnInfectionChanceFactor>2.1</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>0.4762</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.4</tradePriceFactorLoss>
+    <researchSpeedFactor>0.3</researchSpeedFactor>
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
     <scariaRotChance>0.6</scariaRotChance>
