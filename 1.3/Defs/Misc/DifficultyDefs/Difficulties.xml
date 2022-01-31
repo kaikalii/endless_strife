@@ -11,11 +11,9 @@
 - Players who don't want to fight but think Peaceful is too easy.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
-    <allowViolentQuests>false</allowViolentQuests>
     <allowIntroThreats>false</allowIntroThreats>
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
-    <peacefulTemples>True</peacefulTemples>
     <colonistMoodOffset>-10</colonistMoodOffset>
     <cropYieldFactor>0.9</cropYieldFactor>
     <mineYieldFactor>0.9</mineYieldFactor>
@@ -41,11 +39,9 @@
 - Players who don't want to fight but still want a bit of a challenge.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
-    <allowViolentQuests>false</allowViolentQuests>
     <allowIntroThreats>false</allowIntroThreats>
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
-    <peacefulTemples>True</peacefulTemples>
     <colonistMoodOffset>-20</colonistMoodOffset>
     <cropYieldFactor>0.8</cropYieldFactor>
     <mineYieldFactor>0.8</mineYieldFactor>
@@ -71,11 +67,9 @@ Colonist are impossible to please, sickness is rampant, and resources are scarce
 - Players who want to fight their own colonists instead of raiders.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
-    <allowViolentQuests>false</allowViolentQuests>
     <allowIntroThreats>false</allowIntroThreats>
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
-    <peacefulTemples>True</peacefulTemples>
     <colonistMoodOffset>-30</colonistMoodOffset>
     <cropYieldFactor>0.7</cropYieldFactor>
     <mineYieldFactor>0.7</mineYieldFactor>
@@ -100,11 +94,9 @@ Colonist are impossible to please, sickness is rampant, and resources are scarce
 - Min-maxing players who want to re-roll for Sanguine and Iron-Willed.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
-    <allowViolentQuests>false</allowViolentQuests>
     <allowIntroThreats>false</allowIntroThreats>
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
-    <peacefulTemples>True</peacefulTemples>
     <colonistMoodOffset>-40</colonistMoodOffset>
     <cropYieldFactor>0.6</cropYieldFactor>
     <mineYieldFactor>0.6</mineYieldFactor>
