@@ -4,7 +4,7 @@
   <DifficultyDef>
     <defName>StriveToThriveDifficulty</defName>
     <label>Strive to thrive</label>
-    <description>Peaceful, but without bonuses to yeilds. Basically just Strive to survive with major threats disabled.
+    <description>No major threats, but everything is just a little bit harder.
 
 (*SectionTitle)Recommended for:(/SectionTitle)
 
@@ -16,16 +16,16 @@
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <peacefulTemples>True</peacefulTemples>
-    <colonistMoodOffset>-20</colonistMoodOffset>
-    <cropYieldFactor>1</cropYieldFactor>
-    <mineYieldFactor>1</mineYieldFactor>
-    <butcherYieldFactor>1</butcherYieldFactor>
-    <questRewardValueFactor>1</questRewardValueFactor>
-    <foodPoisonChanceFactor>1.0</foodPoisonChanceFactor>
-    <playerPawnInfectionChanceFactor>1.0</playerPawnInfectionChanceFactor>
-    <diseaseIntervalFactor>1.0</diseaseIntervalFactor>
-    <tradePriceFactorLoss>0.0</tradePriceFactorLoss>
-    <researchSpeedFactor>1.0</researchSpeedFactor>
+    <colonistMoodOffset>-10</colonistMoodOffset>
+    <cropYieldFactor>0.9</cropYieldFactor>
+    <mineYieldFactor>0.9</mineYieldFactor>
+    <butcherYieldFactor>0.9</butcherYieldFactor>
+    <questRewardValueFactor>0.9</questRewardValueFactor>
+    <foodPoisonChanceFactor>1.2</foodPoisonChanceFactor>
+    <playerPawnInfectionChanceFactor>1.2</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>0.8333</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.1</tradePriceFactorLoss>
+    <researchSpeedFactor>0.9</researchSpeedFactor>
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
     <scariaRotChance>0.6</scariaRotChance>
@@ -46,16 +46,16 @@
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <peacefulTemples>True</peacefulTemples>
-    <colonistMoodOffset>-10</colonistMoodOffset>
-    <cropYieldFactor>0.85</cropYieldFactor>
-    <mineYieldFactor>0.85</mineYieldFactor>
-    <butcherYieldFactor>0.85</butcherYieldFactor>
-    <questRewardValueFactor>0.85</questRewardValueFactor>
+    <colonistMoodOffset>-20</colonistMoodOffset>
+    <cropYieldFactor>0.8</cropYieldFactor>
+    <mineYieldFactor>0.8</mineYieldFactor>
+    <butcherYieldFactor>0.8</butcherYieldFactor>
+    <questRewardValueFactor>0.8</questRewardValueFactor>
     <foodPoisonChanceFactor>1.5</foodPoisonChanceFactor>
     <playerPawnInfectionChanceFactor>1.5</playerPawnInfectionChanceFactor>
-    <diseaseIntervalFactor>0.75</diseaseIntervalFactor>
-    <tradePriceFactorLoss>0.1</tradePriceFactorLoss>
-    <researchSpeedFactor>0.75</researchSpeedFactor>
+    <diseaseIntervalFactor>0.6667</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.2</tradePriceFactorLoss>
+    <researchSpeedFactor>0.7</researchSpeedFactor>
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>
     <scariaRotChance>0.6</scariaRotChance>
@@ -77,15 +77,15 @@ Colonist are impossible to please, sickness is rampant, and resources are scarce
     <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <peacefulTemples>True</peacefulTemples>
-    <colonistMoodOffset>-20</colonistMoodOffset>
+    <colonistMoodOffset>-30</colonistMoodOffset>
     <cropYieldFactor>0.7</cropYieldFactor>
     <mineYieldFactor>0.7</mineYieldFactor>
     <butcherYieldFactor>0.7</butcherYieldFactor>
     <questRewardValueFactor>0.7</questRewardValueFactor>
-    <foodPoisonChanceFactor>2.0</foodPoisonChanceFactor>
-    <playerPawnInfectionChanceFactor>2.0</playerPawnInfectionChanceFactor>
-    <diseaseIntervalFactor>0.5</diseaseIntervalFactor>
-    <tradePriceFactorLoss>0.2</tradePriceFactorLoss>
+    <foodPoisonChanceFactor>1.8</foodPoisonChanceFactor>
+    <playerPawnInfectionChanceFactor>1.8</playerPawnInfectionChanceFactor>
+    <diseaseIntervalFactor>0.5556</diseaseIntervalFactor>
+    <tradePriceFactorLoss>0.3</tradePriceFactorLoss>
     <researchSpeedFactor>0.5</researchSpeedFactor>
     <deepDrillInfestationChanceFactor>0.4</deepDrillInfestationChanceFactor>
     <enemyReproductionRateFactor>0.3</enemyReproductionRateFactor>

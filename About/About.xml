@@ -30,12 +30,12 @@ Ancient dangers are peaceful.
 
 To balance out this reduction in threat, the rest of the game has been made more difficult (compared to Strive to survive difficulty):
 [list]
-[*] All colonists get a flat 0/-10/-20 mood debuff
-[*] Harvesting, mining, and butchering all yield 0/15/30% less
-[*] Food poisoning, disease, and infection are all 0/50/100% more likely
-[*] Research speed is 100%/75%/50% as fast
-[*] Trade prices are 0/15/30% worse
-[*] Quest rewards are 20% worse
+[*] All colonists get a flat -10/-20/-30 mood debuff
+[*] Harvesting, mining, and butchering all yield 10/20/30% less
+[*] Food poisoning, disease, and infection are all 20/50/80% more likely
+[*] Research speed is 10/30/50% slower
+[*] Trade prices are 10/20/30% worse
+[*] Quest rewards are 10/20/30% worse
 [/list]
   </description>
 </ModMetaData>
