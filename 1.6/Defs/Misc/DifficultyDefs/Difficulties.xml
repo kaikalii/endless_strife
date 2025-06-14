@@ -4,11 +4,11 @@
   <DifficultyDef>
     <defName>StriveToThriveDifficulty</defName>
     <label>Strive to thrive</label>
-    <description>
-      No major threats, but everything is just a little bit harder.
-      (*SectionTitle)Recommended for:(/SectionTitle)
-      - Players who don't want to fight but think Peaceful is too easy.
-    </description>
+    <description>No major threats, but everything is just a little bit harder.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who don't want to fight but think Peaceful is too easy.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
@@ -33,12 +33,11 @@
   <DifficultyDef>
     <defName>ABitOfFrictionDifficulty</defName>
     <label>A bit of friction</label>
-    <description>
-      Even if there are no major threats, that doesn't make it easy. Colonists are harder to please,
-      sickness is more common, and resources are a little harder come by.
-      (*SectionTitle)Recommended for:(/SectionTitle)
-      - Players who don't want to fight but still want a bit of a challenge.
-    </description>
+    <description>Even if there are no major threats, that doesn't make it easy. Colonists are harder to please, sickness is more common, and resources are a little harder come by.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who don't want to fight but still want a bit of a challenge.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
@@ -63,13 +62,11 @@
   <DifficultyDef>
     <defName>EndlessStrifeDifficulty</defName>
     <label>Endless strife</label>
-    <description>
-      While your colonists will be safe from raids, manhunters, and machines, they will not be safe
-      from each other. Colonist are impossible to please, sickness is rampant, and resources are
-      scarce.
-      (*SectionTitle)Recommended for:(/SectionTitle)
-      - Players who want to fight their own colonists instead of raiders.
-    </description>
+    <description>While your colonists will be safe from raids, manhunters, and machines, they will not be safe from each other. Colonist are impossible to please, sickness is rampant, and resources are scarce.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Players who want to fight their own colonists instead of raiders.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
@@ -94,11 +91,11 @@
   <DifficultyDef>
     <defName>LifeIsTormentDifficulty</defName>
     <label>Life is torment</label>
-    <description>
-      Colonists' very existance is reason enough for a mental break.
-      (*SectionTitle)Recommended for:(/SectionTitle)
-      - Min-maxing players who want to re-roll for Sanguine and Iron-Willed.
-    </description>
+    <description>Colonists' very existence is reason enough for a mental break.
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Min-maxing players who want to re-roll for Sanguine and Iron-Willed.</description>
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
