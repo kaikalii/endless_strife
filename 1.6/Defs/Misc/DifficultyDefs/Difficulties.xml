@@ -12,7 +12,7 @@
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
-    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <predatorsHuntHumanlikes>true</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <colonistMoodOffset>-10</colonistMoodOffset>
     <cropYieldFactor>0.9</cropYieldFactor>
@@ -41,7 +41,7 @@
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
-    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <predatorsHuntHumanlikes>true</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <colonistMoodOffset>-20</colonistMoodOffset>
     <cropYieldFactor>0.8</cropYieldFactor>
@@ -70,7 +70,7 @@
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
-    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <predatorsHuntHumanlikes>true</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <colonistMoodOffset>-30</colonistMoodOffset>
     <cropYieldFactor>0.7</cropYieldFactor>
@@ -99,7 +99,7 @@
     <threatScale>1</threatScale>
     <allowBigThreats>false</allowBigThreats>
     <allowIntroThreats>false</allowIntroThreats>
-    <predatorsHuntHumanlikes>false</predatorsHuntHumanlikes>
+    <predatorsHuntHumanlikes>true</predatorsHuntHumanlikes>
     <allowCaveHives>false</allowCaveHives>
     <colonistMoodOffset>-40</colonistMoodOffset>
     <cropYieldFactor>0.6</cropYieldFactor>
